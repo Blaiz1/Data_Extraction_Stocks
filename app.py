@@ -6,7 +6,7 @@ import matplotlib.pylot as plt
 #Set the pape title and layout 
 st.asset_page_config(page_title = "Stock Data Extraction App", layout = "wide")
 
-#Main title of th eapp
+#Main title of the app
 st.title("Stock Data Extraction App")
 
 # Short description of the Subtitle 
